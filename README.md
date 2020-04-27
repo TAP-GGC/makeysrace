@@ -33,6 +33,6 @@ MaKey MaKey Pool is a game that teaches students coding skills using “if-state
 ## The Team
 
 - **Samuel Groom**: Software Development Major :pizza:
-- **Asho Issak**: Software Development Major :🕊️:
+- **Asho Issak**: Software Development Major 🕊️
 - **Johnson Ngao**: Digital Media Major ::
 - **Taylor Williams**: Software Development Major :thumbsup:
