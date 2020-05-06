@@ -35,29 +35,38 @@ MaKey MaKey Pool is a fun pool game that teaches students coding skills using â€
 ## Technologies
 
 1. **Scratch Programming Language**: [Scratch](https://scratch.mit.edu/) is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It was created in 2002, and is an interactive programming language that allows users to create interactive stories, games, and animations.
-![Image of Scratch](https://www.how2shout.com/wp-content/uploads/2019/11/Demo-Scratch-programming-language-code.jpg)
+![Image of Scratch](Photos/scratch.jpg)
 
 2. **MaKey MaKey**: The [MaKey MaKey](https://makeymakey.com/) is an electronic invention kit for all ages! The Makey Makey allows you to take everyday objects and combine them with the internet. Using the alligator clips attached to any conductive material you can control the keyboard of your computer, such as the space bar, arrow keys and left click of the mouse.
-![Image of Makey Makey](https://images-na.ssl-images-amazon.com/images/I/81Or74Q0RYL._SL1500_.jpg)
+![Image of Makey Makey](Photos/makey_makey.jpg)
 
 ## Installation
+
+### Scratch
+
+1. [Sign up](https://scratch.mit.edu/join)
+
+### MaKey MaKey
+
+1. **Plug in the USB** The small side of USB cable plugs into MaKey MaKey, and the big side plugs into computer.
+2. **Close Pop Up Windows** Your computer may ask you to install drivers or do other setup. You can click cancel or close the window.
+3. **Connect to EARTH** Connect one end of an alligator clip to "Earth" on the bottom of the front side of MaKey MaKey. Hold the metal part of the other end of the alligator clip between your fingers. You are now "grounded." 
+4. **Connect to "Space" and Try It** While you're still grounded, touch the round "Space" pad on the Makey Makey. You should see a green light on the Makey Makey, and your computer will think the space bar was pressed.
 
 
 ## Usage
 
+### Scratch
 
 
-## Project Goals
 
-**Goals**
+### MaKey MaKey
 
-- Teach 'if-statements' and 'while loops'
-
-**Results**
-
-- We presented to 72 students during the online workshop.
-- 90% of our participant were not IT majors.
-- Only 10% of Our participant were IT Majors.
-- Our participants ages ranged from 18 years to 58 years old
-- 8 students submitted their new game to us
-- We were able to verify their understanding of if-else and while loops as shown by their game
+**Try Out Everyday Stuff!** Make anything into a key! You can make a connection through anything that's even a little bit conductive. You can also create inventions that combine conductive and non-conductive parts. Here are a few things to try:
+- Most fruits and vegetables work great.
+- Lots of other foods work too. We've tried marshmallows, gummy candies, macaroni and cheese, cupcakes, shrimp, and lots of other things.
+- Plants can work too. Try some leaves or flowers, but nothing too dry.
+- Play-Doh, Model Magic and other clays work very well as long as they stay moist.
+- People are conductive! Connect one person to ground, and another to an input, and you can trigger sounds when they high-five.
+- Graphite from a pencil can work. Make thick, dark lines, and be sure to draw on a smooth surface.
+- Foil and other metal objects will work. Try out coins, magnets, nuts and bolts, forks and knives, or pots and pans.
