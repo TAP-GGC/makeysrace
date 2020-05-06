@@ -6,8 +6,17 @@ MaKey MaKey Pool is a fun pool game that teaches students coding skills using â€
 
 ### Results
 
+**Results of Class Workshop**
+
 ![Results](Photos/Results.png)
+
+**Gauge of Difficulty**
+
 ![Difficulty](Photos/Difficulty.png)
+
+**Majors of Participants**
+
+![Majors](Photos/Majors.png)
 
 ## The Team
 
