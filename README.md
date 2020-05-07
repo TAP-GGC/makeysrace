@@ -37,15 +37,15 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 
 #### Game Levels
 
-**Level 1**
+**Level 1: Standard Pool Game**
 
 ![Scratch](Photos/lvl1.PNG)
 
-**Level 2**
+**Level 2: Added Barriers**
 
 ![Scratch](Photos/lvl2.PNG)
 
-**Level 3**
+**Level 3: Added Moving Barriers**
 
 ![Scratch](Photos/lvl3.gif)
 
