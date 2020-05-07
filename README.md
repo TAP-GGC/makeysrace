@@ -27,9 +27,7 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 1. **TAP Expo, Apr 28, GGC** – To promote IT field and the TAP program to college students
 2. **Class Workshops** – on Apr 9 and Apr 13 (2 occasions), to promote IT field to non-IT college students
 
-### Class Workshop Results
-
-72 students participated in the 2 class workshops. 90% of them were non-IT majors, while 10% were IT majors. Their ages ranged from 18 to 58 years old. Based on the pre-survey results, 30% understood the concept of if-statements, 37% kind of understood the concept of if-statements, and 33% did not understand the concept of if-statements. In regards to while loops, 22% understood this concept, 15% kind of understood this concept, and 63% did not understand this concept. After going through the workshop and taking the post-survey, 82% finally understood the concept of if-statements, 15% kind of understood the concept of if-statements, and 3% still did not understand the concept of if-statements. In regards to while loops, 75% finally understood this concept, 20% kind of understood this concept, and 5% still did not understand this concept. 8 students actually made changes to the game, and 75% were able to understand by making complex changes, while 25% partially understood by making simple changes.
+### Class Workshop
 
 **Example of Scratch Code**
 
@@ -48,6 +46,10 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 **Level 3: Added Moving Barriers**
 
 ![Scratch](Photos/lvl3.gif)
+
+#### Results
+
+72 students participated in the 2 class workshops. 90% of them were non-IT majors, while 10% were IT majors. Their ages ranged from 18 to 58 years old. Based on the pre-survey results, 30% understood the concept of if-statements, 37% kind of understood the concept of if-statements, and 33% did not understand the concept of if-statements. In regards to while loops, 22% understood this concept, 15% kind of understood this concept, and 63% did not understand this concept. After going through the workshop and taking the post-survey, 82% finally understood the concept of if-statements, 15% kind of understood the concept of if-statements, and 3% still did not understand the concept of if-statements. In regards to while loops, 75% finally understood this concept, 20% kind of understood this concept, and 5% still did not understand this concept. 8 students actually made changes to the game, and 75% were able to understand by making complex changes, while 25% partially understood by making simple changes.
 
 ## Technologies
 
