@@ -49,14 +49,17 @@ MaKey MaKey Pool is a fun pool game that teaches students coding skills using â€
 ## Installation
 
 ### Scratch
-
+#### Creating a New Project
 1. [Sign up](https://scratch.mit.edu/join) to save your project files.
 2. Click **Create** to create a new project
-2b. Download any of these files to play the level or make changes to it!
+
+#### Editing This Project
+1. [Sign up](https://scratch.mit.edu/join) to save your project files.
+2. Download any of these files to play the level or make changes to it!
 	* [Level 1](Game_Files/TAP_Pool_Level_1.sb3)
 	* [Level 2](Game_Files/TAP_Pool_Level_2.sb3)
  	* [Level 3](Game_Files/TAP_Pool_Level_3.sb3)
-2c. Click **File** and then **Load from your computer** to import the files into your account
+3. Click **File** and then **Load from your computer** to import the files into your account
   
 
 ### MaKey MaKey
