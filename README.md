@@ -70,8 +70,8 @@ MaKey MaKey Pool is a fun pool game that teaches students coding skills using â€
 
 ### Scratch
 
-| Color         | Category      | Usage  |
-| ------------- |:-------------:| -----:|
+| Color of Blocks         | Category      | Usage  |
+|:-------------:|:-------------:|:-----:|
 | ![#4C97FF](https://via.placeholder.com/15/4C97FF/000000?text=+) | Motion | Moves sprites, changes angles and position |
 | ![#9966FF](https://via.placeholder.com/15/9966FF/000000?text=+) | Looks | Controls the visuals of the sprite |
 | ![#D65CD6](https://via.placeholder.com/15/D65CD6/000000?text=+) | Sound | Plays audio files and effects |
