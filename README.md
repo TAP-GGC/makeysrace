@@ -25,7 +25,7 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 ## Outreach Activities
 
 1. **TAP Expo, Apr 28, GGC** – To promote IT field and the TAP program to college students
-2. **Class Workshops** – on Apr 9 and Apr 13 (2 occasions), to promote IT field to non-IT college students
+2. **Class Workshops** – on Apr 9 and Apr 13 (2 workshops each day), to promote IT field to non-IT college students
 
 ### Class Workshop
 
