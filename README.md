@@ -63,6 +63,7 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 	* [Level 2](Game_Files/TAP_Pool_Level_2.sb3)
  	* [Level 3](Game_Files/TAP_Pool_Level_3.sb3)
 3. Click **File** and then **Load from your computer** to import the files into your account
+4. Click the green flag to play!
   
 
 ### MaKey MaKey
