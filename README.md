@@ -2,13 +2,11 @@
 
 ## Project Description
 
-MaKey MaKey Pool is a fun pool game that teaches students basic coding skills using “if-statements”, “while loops” and building blocks with the Scratch programming language. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. The targets for this project are students of all ages that are unfamiliar with technology. The students will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game). Here are the results that were gathered from the 72 participants during the class workshops that were held:
+MaKey MaKey Pool is a fun pool game that teaches students basic coding skills using “if-statements”, “while loops” and building blocks with the Scratch programming language. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. This project was created with the goal of attracting non-technical people to like and get excited about technology. The students will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game).
 
-### Results
+**Example of Scratch Code**
 
-**Results of the Class Workshop**
-
-![Results](Photos/Results.png)
+![Scratch](Photos/scratch.PNG)
 
 **Gauging the Difficulty of the Class Workshop**
 
@@ -41,6 +39,12 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 1. **TAP Expo, Apr 28, GGC** – To promote IT field and the TAP program to college students
 2. **Class Workshops** – on Apr 9 and Apr 13 (2 occasions), to promote IT field to non-IT college students
 
+### Class Workshops
+
+72 students participated in the 2 class workshops. 90% of them were non-IT majors, while 10% were IT majors.
+
+
+
 ## Technologies
 
 1. **Scratch Programming Language**: [Scratch](https://scratch.mit.edu/) is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It was created in 2002, and is an interactive programming language that allows users to create interactive stories, games, and animations.
@@ -72,34 +76,11 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 2. **Close Pop Up Windows** Your computer may ask you to install drivers or do other setup. You can click cancel or close the window.
 3. **Connect to EARTH** Connect one end of an alligator clip to "Earth" on the bottom of the front side of MaKey MaKey. Hold the metal part of the other end of the alligator clip between your fingers. You are now "grounded." 
 4. **Connect to "Space" and Try It** While you're still grounded, touch the round "Space" pad on the Makey Makey. You should see a green light on the Makey Makey, and your computer will think the space bar was pressed.
-5. **Connect to Ports A1-A5** Use one end of your 5 connector wires and connect them into ports A1, A2, A3, A4, and A5 on the back of the MaKey MaKey circuit board. Connect the other ends to your makeshift keys (see Usage below).
+5. **Connect to Ports A1-A5** Use one end of your 5 connector wires and connect them into ports A1, A2, A3, A4, and A5 on the back of the MaKey MaKey circuit board. Connect the other ends to your makeshift keys (any household object)
 6. **Try It!** You should be able to use your makeshift keys as a substitute for the mouse/keyboard pad. 
 
 ## Usage
 
 ### Scratch
 
-| Color of Blocks         | Category      | Usage  |
-|:-------------:|:-------------:|:-----:|
-| ![#4C97FF](https://via.placeholder.com/15/4C97FF/000000?text=+) | Motion | Moves sprites, changes angles and position |
-| ![#9966FF](https://via.placeholder.com/15/9966FF/000000?text=+) | Looks | Controls the visuals of the sprite |
-| ![#D65CD6](https://via.placeholder.com/15/D65CD6/000000?text=+) | Sound | Plays audio files and effects |
-| ![#FFD500](https://via.placeholder.com/15/FFD500/000000?text=+) | Events | Event handlers |
-| ![#FFAB19](https://via.placeholder.com/15/FFAB19/000000?text=+) | Control | Conditionals and loops etc. |
-| ![#4CBFE6](https://via.placeholder.com/15/4CBFE6/000000?text=+) | Sensing | Sprites can interact with the surroundings |
-| ![#40BF4A](https://via.placeholder.com/15/40BF4A/000000?text=+) | Operators | Mathematical operators, comparisons |
-| ![#FF8C1A](https://via.placeholder.com/15/FF8C1A/000000?text=+) | Variables | Variable and List usage and assignment |
-| ![#FF6680](https://via.placeholder.com/15/FF6680/000000?text=+) | My Blocks | Custom procedures |
-
 **Tutorials**: Click [here](https://scratch.mit.edu/ideas) to watch tutorials of the many ways you can create a Scratch project.
-
-### MaKey MaKey
-
-**Try Out Everyday Stuff!** Make anything into a key! You can make a connection through anything that's even a little bit conductive. You can also create inventions that combine conductive and non-conductive parts. Here are a few things to try:
-- Most fruits and vegetables work great.
-- Lots of other foods work too. We've tried marshmallows, gummy candies, macaroni and cheese, cupcakes, shrimp, and lots of other things.
-- Plants can work too. Try some leaves or flowers, but nothing too dry.
-- Play-Doh, Model Magic and other clays work very well as long as they stay moist.
-- People are conductive! Connect one person to ground, and another to an input, and you can trigger sounds when they high-five.
-- Graphite from a pencil can work. Make thick, dark lines, and be sure to draw on a smooth surface.
-- Foil and other metal objects will work. Try out coins, magnets, nuts and bolts, forks and knives, or pots and pans.
