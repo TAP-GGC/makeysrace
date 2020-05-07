@@ -84,8 +84,6 @@ MaKey MaKey Pool is a fun pool game that teaches students coding skills using â€
 
 **Tutorials**: Click [here](https://scratch.mit.edu/ideas) to watch tutorials of the many ways you can create a Scratch project.
 
-**uu**
-
 ### MaKey MaKey
 
 **Try Out Everyday Stuff!** Make anything into a key! You can make a connection through anything that's even a little bit conductive. You can also create inventions that combine conductive and non-conductive parts. Here are a few things to try:
