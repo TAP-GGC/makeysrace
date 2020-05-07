@@ -4,16 +4,6 @@
 
 MaKey MaKey Pool is a fun pool game that teaches students basic coding skills using “if-statements”, “while loops” and building blocks with the Scratch programming language. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. This project was created with the goal of attracting non-technical people to like and get excited about technology. The students will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game).
 
-
-
-**Gauging the Difficulty of the Class Workshop**
-
-![Difficulty](Photos/Difficulty.png)
-
-**Majors of the Participants**
-
-![Majors](Photos/Majors.png)
-
 ### Videos of Each Level
 
 1. [Level 1](Videos/Level_1.mkv)
@@ -44,6 +34,18 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 **Example of Scratch Code**
 
 ![Scratch](Photos/scratch.PNG)
+
+#### Game Levels
+
+**Level 1**
+
+![Scratch](Photos/lvl1.PNG)
+
+**Level 2**
+
+![Scratch](Photos/lvl2.PNG)
+
+**Level 3**
 
 ![Scratch](Photos/lvl3.gif)
 
