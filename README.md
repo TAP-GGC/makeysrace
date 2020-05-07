@@ -70,7 +70,20 @@ MaKey MaKey Pool is a fun pool game that teaches students coding skills using â€
 
 ### Scratch
 
+| Color         | Category      | Usage  |
+| ------------- |:-------------:| -----:|
+| ![#4C97FF](https://via.placeholder.com/15/4C97FF/000000?text=+) | Motion | Moves sprites, changes angles and position |
+| ![#9966FF](https://via.placeholder.com/15/9966FF/000000?text=+) | Looks | Controls the visuals of the sprite |
+| ![#D65CD6](https://via.placeholder.com/15/D65CD6/000000?text=+) | Sound | Plays audio files and effects |
+| ![#FFD500](https://via.placeholder.com/15/FFD500/000000?text=+) | Events | Event handlers |
+| ![#FFAB19](https://via.placeholder.com/15/FFAB19/000000?text=+) | Control | Conditionals and loops etc. |
+| ![#4CBFE6](https://via.placeholder.com/15/4CBFE6/000000?text=+) | Sensing | Sprites can interact with the surroundings |
+| ![#40BF4A](https://via.placeholder.com/15/40BF4A/000000?text=+) | Operators | Mathematical operators, comparisons |
+| ![#FF8C1A](https://via.placeholder.com/15/FF8C1A/000000?text=+) | Variables | Variable and List usage and assignment |
+| ![#FF6680](https://via.placeholder.com/15/FF6680/000000?text=+) | My Blocks | Custom procedures |
+
 **Tutorials**: Click [here](https://scratch.mit.edu/ideas) to watch tutorials of the many ways you can create a Scratch project.
+
 **uu**
 
 ### MaKey MaKey
