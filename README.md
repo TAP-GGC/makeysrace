@@ -12,15 +12,15 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 
 ## The Team
 
-- **Samuel Groom**: Software Development Major :pizza:
-- **Asho Issak**: Software Development Major :woman_with_headscarf:
-- **Johnson Ngao**: Software Development Major :grin:
-- **Taylor Williams**: Software Development Major :woman_technologist:
+- **Samuel Groom**: Software Development Major
+- **Asho Issak**: Software Development Major
+- **Johnson Ngao**: Software Development Major
+- **Taylor Williams**: Software Development Major
 
 ## The Advisors
 
-- **Dr. Anca Doloc-Mihu**: Assistant Professor of Information Technology :woman_teacher:
-- **Dr. Cindy Robertson**: Assistant Professor of Information Technology :woman_teacher:
+- **Dr. Anca Doloc-Mihu**: Assistant Professor of Information Technology
+- **Dr. Cindy Robertson**: Assistant Professor of Information Technology
 
 ## Outreach Activities
 
