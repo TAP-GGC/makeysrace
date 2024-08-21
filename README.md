@@ -6,11 +6,11 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 * Difficulty Level: Medium
 * Target Audience: 6th Grade - College
 * Duration of workshop: 60-90 minutes
-* Needed Material: A classroom set of Spheros, Sphero EDU app,Sphero EDU website teacher account, a 36 in. x 48 in. foldable foam board, and a 36 in. x 48 in. plywood
-* The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. 
-* Sphero is a small robot ball that moves around by either remote control or code you feed it. 
-This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
-By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
+* Needed Materials: MakeyMakey circuit boards, objects to use as input devices for the MakeyMakey
+* The primary goal of this project is educating others about "if-statements", "while-loops", and block coding by creating a fun pool game using Scratch. 
+* MakeyMakey is a circuit board that can use any object as an input device.
+* This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
+By engaging in our workshops, students will create a pool game using block coding and using a MakeyMakey as a controller to learn about fundamental coding principles such as "if-statements" and "while-loops".
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
 ### Videos of Each Level
@@ -30,8 +30,8 @@ By engaging in our workshops, students will get to experiment with Sphero.edu an
 - Dr. Cindy Robertson: Assistant Professor of Information Technology
 
 ## Outreach Activities
-1. TAP Expo, Apr 28, GGC – To promote IT field and the TAP program to college students
-2. Class Workshops – on Apr 9 and Apr 13 (2 workshops each day), to promote IT field to non-IT college students
+1. TAP Expo, April 28, GGC – To promote IT field and the TAP program to college students
+2. Class Workshops, April 9 and April 13 (2 workshops each day) -  to promote IT field to non-IT college students
 
 ## Similar Projects
 
