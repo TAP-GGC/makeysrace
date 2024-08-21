@@ -7,9 +7,9 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 * Target Audience: 6th Grade - College
 * Duration of workshop: 60-90 minutes
 * Needed Materials: MakeyMakey circuit boards, objects to use as input devices for the MakeyMakey
-* The primary goal of this project is educating others about "if-statements", "while-loops", and block coding by creating a fun pool game using Scratch. 
+* The project is used to educate others about "if-statements", "while-loops", and block coding by creating a fun pool game using Scratch. 
 * MakeyMakey is a circuit board that can use any object as an input device.
-* This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
+* The primary goal of this project is to educate and create interest in the IT field for non STEM majors. 
 By engaging in our workshops, students will create a pool game using block coding and using a MakeyMakey as a controller to learn about fundamental coding principles such as "if-statements" and "while-loops".
 * The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
