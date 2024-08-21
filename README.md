@@ -1,8 +1,17 @@
 # Using Visual, Block-Based, Event-Driven Language to Teach Coding Skills
+## About
+MaKey MaKey Pool is a fun pool game that teaches students basic coding skills using “if-statements”, “while loops” and building blocks with the Scratch programming language. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. This project was created with the goal of attracting non-technical people to like and get excited about technology. The students that participate in the outreach events will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game).
 
 ## Project Description
-
-MaKey MaKey Pool is a fun pool game that teaches students basic coding skills using “if-statements”, “while loops” and building blocks with the Scratch programming language. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. This project was created with the goal of attracting non-technical people to like and get excited about technology. The students that participate in the outreach events will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game).
+* Difficulty Level: Medium
+* Target Audience: 6th Grade - College
+* Duration of workshop: 60-90 minutes
+* Needed Material: A classroom set of Spheros, Sphero EDU app,Sphero EDU website teacher account, a 36 in. x 48 in. foldable foam board, and a 36 in. x 48 in. plywood
+* The primary goal of this project is educating others about algorithms by programming a robot through a maze using Sphero EDU. 
+* Sphero is a small robot ball that moves around by either remote control or code you feed it. 
+This workshop is geared towards educating and creating interest in the IT field for non STEM majors. 
+By engaging in our workshops, students will get to experiment with Sphero.edu and block coding, which allows them to learn about algorithms through relatable examples. 
+* The Technology Ambassador Program ([TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
 
 ### Videos of Each Level
 
@@ -11,21 +20,20 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 3. [Level 3](Videos/Level_3.mkv)
 
 ## The Team
+- Samuel Groom: Software Development Major
+- Asho Issak: Software Development Major
+- Johnson Ngao: Software Development Major
+- Taylor Williams: Software Development Major
 
-- **Samuel Groom**: Software Development Major
-- **Asho Issak**: Software Development Major
-- **Johnson Ngao**: Software Development Major
-- **Taylor Williams**: Software Development Major
-
-## The Advisors
-
-- **Dr. Anca Doloc-Mihu**: Assistant Professor of Information Technology
-- **Dr. Cindy Robertson**: Assistant Professor of Information Technology
+### The Advisors
+- Dr. Anca Doloc-Mihu: Assistant Professor of Information Technology
+- Dr. Cindy Robertson: Assistant Professor of Information Technology
 
 ## Outreach Activities
+1. TAP Expo, Apr 28, GGC – To promote IT field and the TAP program to college students
+2. Class Workshops – on Apr 9 and Apr 13 (2 workshops each day), to promote IT field to non-IT college students
 
-1. **TAP Expo, Apr 28, GGC** – To promote IT field and the TAP program to college students
-2. **Class Workshops** – on Apr 9 and Apr 13 (2 workshops each day), to promote IT field to non-IT college students
+## Similar Projects
 
 ### Class Workshop
 
