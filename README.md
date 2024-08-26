@@ -68,7 +68,7 @@ By engaging in our workshops, students will create a pool game using block codin
 
 ## Technologies
 
-| <img src="Media/SpheroClassSet.jpg" width="200" height="200"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> |
+| <img src="Photos/Scratch_01.jpeg" width="200" height="200"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | [Scratch](https://scratch.mit.edu/) | [MakeyMakey](https://makeymakey.com/products/makey-makey-kit) |
 
