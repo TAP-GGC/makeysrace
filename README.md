@@ -68,9 +68,9 @@ By engaging in our workshops, students will create a pool game using block codin
 
 ## Technologies
 
-| <img src="Media/SpheroClassSet.jpg" width="200" height="200"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> | <img src="Media/SpheroEdu.jpg" width="200" height="200"> <br>|
-| :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: | 
-| [Classroom set of Spheros](https://sphero.com/collections/all/products/sphero-bolt-power-pack) | [Sphero Robot](https://sphero.com/collections/all/products/sphero-bolt) | [Sphero EDU website](https://edu.sphero.com/sphero/home) |    
+| <img src="Media/SpheroClassSet.jpg" width="200" height="200"> | <img src="https://github.com/TechAmbassadors-GGC/Jedi/blob/main/Media/Sphero%20Robot.jpg" width="200" height="200"> |
+| :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [Scratch](https://scratch.mit.edu/) | [MakeyMakey](https://makeymakey.com/products/makey-makey-kit) |
 
 
 ~~1. **Scratch Programming Language**: [Scratch](https://scratch.mit.edu/) is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It was created in 2002, and is an interactive programming language that allows users to create interactive stories, games, and animations.
