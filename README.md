@@ -51,6 +51,13 @@ MaKey MaKey Pool is a fun pool game that teaches students basic coding skills us
 
 72 students participated in the 2 class workshops. 90% of them were non-IT majors, while 10% were IT majors. Their ages ranged from 18 to 58 years old. Based on the pre-survey results, 30% understood the concept of if-statements, 37% kind of understood the concept of if-statements, and 33% did not understand the concept of if-statements. In regards to while loops, 22% understood this concept, 15% kind of understood this concept, and 63% did not understand this concept. After going through the workshop and taking the post-survey, 82% finally understood the concept of if-statements, 15% kind of understood the concept of if-statements, and 3% still did not understand the concept of if-statements. In regards to while loops, 75% finally understood this concept, 20% kind of understood this concept, and 5% still did not understand this concept. 8 students (6 females and 2 males) actually made changes to the game, and 75% of them were able to understand by making complex changes, while 25% of them partially understood by making simple changes.
 
+## Similar Projects
+### Makey Makey Projects
+* [Monster Makey](https://github.com/TAP-GGC/MonsterMakey)
+### Scratch Projects
+* [Scratchathon](https://github.com/TAP-GGC/scratchathon)
+* [Leap for Mankind](https://github.com/TAP-GGC/leapformankind)
+
 ## Technologies
 
 1. **Scratch Programming Language**: [Scratch](https://scratch.mit.edu/) is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It was created in 2002, and is an interactive programming language that allows users to create interactive stories, games, and animations.
