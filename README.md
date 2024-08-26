@@ -1,6 +1,6 @@
 # Using Scratch to Teach Event-Driven Coding Skills
 ## About
-MaKey MaKey Pool is a fun pool game that teaches students basic coding skills using “if-statements”, “while loops” and building blocks with the Scratch programming language. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. This project was created with the goal of attracting non-technical people to like and get excited about technology. The students that participate in the outreach events will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game).
+MaKey MaKey Pool is a fun pool game that uses Scratch programming to teach students basic coding skills such as “if-statements” and “while loops”. The MaKey MaKey circuit board will be used in place of the computer mouse/keyboard mousepad. The project was created by Makey Your Shot, a group of students a part of the Technology Ambassadors Program at Georgia Gwinnett College. The [Technology Ambassadors Program](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) is a program that offers students opportunities to learn more about technology, and helps them develop creativity, leadership, communication, and teamwork skills, while also giving them the oppurtunity to do community outreach. This project was created with the goal of attracting non-technical people to like and get excited about technology. The students that participate in the outreach events will be able to learn these basic coding skills through demonstrations and hands-on activities (making their own changes to the game).
 
 ## Project Description
 * Difficulty Level: Medium
@@ -35,23 +35,23 @@ By engaging in our workshops, students will create a pool game using block codin
 
 ## Similar Projects
 
-### Class Workshop
+~~### Class Workshop~~
 
-**Example of Scratch Code**
+~~**Example of Scratch Code**~~
 
 ![Scratch](Photos/scratch.PNG)
 
-#### Game Levels
+~~#### Game Levels~~
 
-**Level 1: Standard Pool Game**
+~~**Level 1: Standard Pool Game**~~
 
 ![Scratch](Photos/lvl1.PNG)
 
-**Level 2: Added Barriers**
+~~**Level 2: Added Barriers**~~
 
 ![Scratch](Photos/lvl2.PNG)
 
-**Level 3: Added Moving Barriers**
+~~**Level 3: Added Moving Barriers**~~
 
 ![Scratch](Photos/lvl3.gif)
 
