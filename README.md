@@ -33,8 +33,6 @@ By engaging in our workshops, students will create a pool game using block codin
 1. TAP Expo, April 28, GGC – To promote IT field and the TAP program to college students
 2. Class Workshops, April 9 and April 13 (2 workshops each day) -  to promote IT field to non-IT college students
 
-## Similar Projects
-
 ~~### Class Workshop~~
 
 ~~**Example of Scratch Code**~~
