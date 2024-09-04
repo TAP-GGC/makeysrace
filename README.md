@@ -20,14 +20,14 @@ By engaging in our workshops, students will create a pool game using block codin
 3. [Level 3](Videos/Level_3.mkv)
 
 ## The Team
-- Samuel Groom: Software Development Major
-- Asho Issak: Software Development Major
-- Johnson Ngao: Software Development Major
-- Taylor Williams: Software Development Major
+- Samuel Groom
+- Asho Issak
+- Johnson Ngao
+- Taylor Williams
 
 ### The Advisors
-- Dr. Anca Doloc-Mihu: Assistant Professor of Information Technology
-- Dr. Cindy Robertson: Assistant Professor of Information Technology
+- Dr. Anca Doloc-Mihu
+- Dr. Cindy Robertson
 
 ## Outreach Activities
 1. TAP Expo, April 28, GGC – To promote IT field and the TAP program to college students
