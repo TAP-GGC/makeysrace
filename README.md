@@ -37,6 +37,9 @@ By engaging in our workshops, students will create a pool game using block codin
 * [Monster Makey (Scratch with MakeyMakey and Audcity)](https://github.com/TAP-GGC/MonsterMakey)
 * [Scratchathon (Scratch)](https://github.com/TAP-GGC/scratchathon)
 * [Leap for Mankind (Scratch)](https://github.com/TAP-GGC/leapformankind)
+* [NinjaTurtler (Scratch with Makey-Makey)](https://github.com/TAP-GGC/NinjaTurtles)
+* [Planimals (Scratch)](https://github.com/TAP-GGC/planimals)
+* [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
 
 ## Technologies
 
