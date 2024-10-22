@@ -34,11 +34,9 @@ By engaging in our workshops, students will create a pool game using block codin
 2. Class Workshops, April 9 and April 13 (2 workshops each day) -  to promote IT field to non-IT college students
 
 ## Similar Projects
-### Makey Makey Projects
-* [Monster Makey](https://github.com/TAP-GGC/MonsterMakey)
-### Scratch Projects
-* [Scratchathon](https://github.com/TAP-GGC/scratchathon)
-* [Leap for Mankind](https://github.com/TAP-GGC/leapformankind)
+* [Monster Makey (Scratch with MakeyMakey and Audcity)](https://github.com/TAP-GGC/MonsterMakey)
+* [Scratchathon (Scratch)](https://github.com/TAP-GGC/scratchathon)
+* [Leap for Mankind (Scratch)](https://github.com/TAP-GGC/leapformankind)
 
 ## Technologies
 
