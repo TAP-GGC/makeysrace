@@ -43,7 +43,7 @@ By engaging in our workshops, students will create a pool game using block codin
 
 ## Technologies
 
-| <img src="Photos/Scratch_01.jpeg" width="200" height="200"> | <img src="Photos/MakeyMakey.jpg" width="200" height="200"> |
+| <img src="Photos/Scratch_01.jpeg" width="300" height="200"> | <img src="Photos/MakeyMakey.jpg" width="200" height="200"> |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | [Scratch](https://scratch.mit.edu/) | [MakeyMakey](https://makeymakey.com/products/makey-makey-kit) |
 
