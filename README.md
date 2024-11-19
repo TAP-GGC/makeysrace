@@ -63,6 +63,13 @@ By engaging in our workshops, students will create a pool game using block codin
 1. [Sign up](https://scratch.mit.edu/join) to save your project files.
 2. Click **Create** to create a new project
 
+## Workshop 
+[Workshop step-by-step](Documents/Using%20Interactive%20Technology%20to%20Teach%20Basic%20Algorithmic%20Instructions%20Step-by-Step.pdf) <br>
+[Workshop Powerpoint](Documents/Workshop%20PowerPoint.pptm)
+<br>
+[Commented Code](Code/Using%20Interactive%20Technology%20to%20Teach%20Basic%20Algorithmic%20Instructions%20Commented%20Code.pdf)
+
+
 #### Playing or Editing This Project
 1. [Sign up](https://scratch.mit.edu/join) to save your project files.
 2. Download any of these files to play the level or make changes to it!
