@@ -64,10 +64,9 @@ By engaging in our workshops, students will create a pool game using block codin
 2. Click **Create** to create a new project
 
 ## Workshop 
-[Workshop step-by-step](Documents/Using%20Interactive%20Technology%20to%20Teach%20Basic%20Algorithmic%20Instructions%20Step-by-Step.pdf) <br>
-[Workshop Powerpoint](Documents/Workshop%20PowerPoint.pptm)
-<br>
-[Commented Code](Code/Using%20Interactive%20Technology%20to%20Teach%20Basic%20Algorithmic%20Instructions%20Commented%20Code.pdf)
+[Workshop step-by-step](documents/Using%20Scratch%20to%20Teach%20Event-Driven%20Coding%20Skills%20Step-By-Step.pdf) <br>
+
+[Commented Code](documents/Using%20Scratch%20to%20Teach%20Event-Driven%20Coding%20Skills%20Commented%20Code.pdf)
 
 
 #### Playing or Editing This Project
