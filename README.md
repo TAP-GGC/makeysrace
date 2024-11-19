@@ -71,15 +71,6 @@ By engaging in our workshops, students will create a pool game using block codin
 4. Click the green flag, read the instructions, and then press **P** to play!
   
 
-### MaKey MaKey
-
-1. **Plug in the USB** The small side of USB cable plugs into MaKey MaKey, and the big side plugs into computer.
-2. **Close Pop Up Windows** Your computer may ask you to install drivers or do other setup. You can click cancel or close the window.
-3. **Connect to EARTH** Connect one end of an alligator clip to "Earth" on the bottom of the front side of MaKey MaKey. Hold the metal part of the other end of the alligator clip between your fingers. You are now "grounded." 
-4. **Connect to "Space" and Try It** While you're still grounded, touch the round "Space" pad on the Makey Makey. You should see a green light on the Makey Makey, and your computer will think the space bar was pressed.
-5. **Connect to Ports A1-A5** Use one end of your 5 connector wires and connect them into ports A1, A2, A3, A4, and A5 on the back of the MaKey MaKey circuit board. Connect the other ends to your makeshift keys (any household object)
-6. **Try It!** You should be able to use your makeshift keys as a substitute for the mouse/keyboard pad. 
-
 ## Usage
 
 ### Scratch
