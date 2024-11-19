@@ -54,7 +54,9 @@ By engaging in our workshops, students will create a pool game using block codin
 | :-----------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | [Scratch](https://scratch.mit.edu/) | [MakeyMakey](https://makeymakey.com/products/makey-makey-kit) |
 
-## Installation
+## Project Setup/Installation ##
+### Guide to Use Scratch
+[<img src= "media/technology/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
 ### Scratch
 #### Creating a New Project
