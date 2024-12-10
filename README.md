@@ -41,13 +41,6 @@ By engaging in our workshops, students will create a pool game using block codin
 * [Planimals (Scratch)](https://github.com/TAP-GGC/planimals)
 * [LightUp (Scratch)](https://github.com/TAP-GGC/LightUp-Teaching-Programming-Basics-with-Scratch)
 
-## Similar Projects
-### Makey Makey Projects
-* [Monster Makey](https://github.com/TAP-GGC/MonsterMakey)
-### Scratch Projects
-* [Scratchathon](https://github.com/TAP-GGC/scratchathon)
-* [Leap for Mankind](https://github.com/TAP-GGC/leapformankind)
-
 ## Technologies
 
 | <img src="Photos/Scratch_02.png" width="300" height="100"> | <img src="Photos/MakeyMakey.jpg" width="200" height="200"> |
