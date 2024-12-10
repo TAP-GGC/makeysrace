@@ -70,13 +70,12 @@ By engaging in our workshops, students will create a pool game using block codin
 
 
 #### Playing or Editing This Project
-1. [Sign up](https://scratch.mit.edu/join) to save your project files.
-2. Download any of these files to play the level or make changes to it!
-	* [Level 1](Game_Files/TAP_Pool_Level_1.sb3)
-	* [Level 2](Game_Files/TAP_Pool_Level_2.sb3)
- 	* [Level 3](Game_Files/TAP_Pool_Level_3.sb3)
-3. Click **File** and then **Load from your computer** to import the files into your account
-4. Click the green flag, read the instructions, and then press **P** to play!
+1. Download any of these files to play the level or make changes to it!
+	* [Level 1](code/PoolLevel1.sb3)
+	* [Level 2](code/PoolLevel2.sb3)
+ 	* [Level 3](code/PoolLevel3.sb3)
+2. Click **File** and then **Load from your computer** to import the files from your computer.
+3. Click the green flag, read the instructions, and then press **P** to play!
   
 
 ## Usage
