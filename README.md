@@ -55,7 +55,9 @@ By engaging in our workshops, students will create a pool game using block codin
 ## Workshop 
 [Workshop step-by-step](documents/Using%20Scratch%20to%20Teach%20Event-Driven%20Coding%20Skills%20Step-By-Step.pdf) <br>
 
-[Commented Code](documents/Using%20Scratch%20to%20Teach%20Event-Driven%20Coding%20Skills%20Commented%20Code.pdf)
+[Commented Code](documents/Using%20Scratch%20to%20Teach%20Event-Driven%20Coding%20Skills%20Commented%20Code.pdf) >br>
+
+[Workshop Powerpoint](documents/MakeysraceWorkshop.pptx)
 
 
 #### Playing or Editing This Project
