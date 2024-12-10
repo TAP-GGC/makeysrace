@@ -51,10 +51,6 @@ By engaging in our workshops, students will create a pool game using block codin
 ### Guide to Use Scratch
 [<img src= "Photos/ScratchGuideThumbnail.png" width="400" height="200">](https://www.youtube.com/watch?v=v-GUbj7DMEE&list=PLTElqUEQXcpgx3EqxAWPbeGb6dNMnoSGX&index=5)
 
-### Scratch
-#### Creating a New Project
-1. [Sign up](https://scratch.mit.edu/join) to save your project files.
-2. Click **Create** to create a new project
 
 ## Workshop 
 [Workshop step-by-step](documents/Using%20Scratch%20to%20Teach%20Event-Driven%20Coding%20Skills%20Step-By-Step.pdf) <br>
