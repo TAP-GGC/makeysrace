@@ -71,9 +71,9 @@ By engaging in our workshops, students will create a pool game using block codin
 
 #### Playing or Editing This Project
 1. Download any of these files to play the level or make changes to it!
-	* [Level 1](code/PoolLevel1.sb3)
-	* [Level 2](code/PoolLevel2.sb3)
- 	* [Level 3](code/PoolLevel3.sb3)
+	* [Level 1](code/Workshop/PoolLevel1.sb3)
+	* [Level 2](code/Workshop/PoolLevel2.sb3)
+ 	* [Level 3](code/Workshop/PoolLevel3.sb3)
 2. Click **File** and then **Load from your computer** to import the files from your computer.
 3. Click the green flag, read the instructions, and then press **P** to play!
   
