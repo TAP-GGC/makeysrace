@@ -16,7 +16,7 @@ By engaging in our workshops, students will create a pool game using block codin
 ### Videos of Each Level
 
 1. [Level 1](archive/videos/Level_1.mkv)
-2. [Level 2](archive/videos/Level_2.mkv)
+2. [Level 2](archive/videos/archive_videos_Level_2.mkv)
 3. [Level 3](archive/videos/Level_3.mkv)
 
 ## The Team
