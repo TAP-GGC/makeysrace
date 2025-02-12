@@ -60,6 +60,8 @@ By engaging in our workshops, students will create a pool game using block codin
 [Workshop Powerpoint](documents/MakeysraceWorkshop.pptx)
 
 
+## Usage
+
 #### Playing or Editing This Project
 1. Download any of these files to play the level or make changes to it!
 	* [Level 1](code/Workshop/PoolLevel1.sb3) Program the White and Yellow ball to allow them to collide with eachother. 
@@ -67,9 +69,6 @@ By engaging in our workshops, students will create a pool game using block codin
  	* [Level 3](code/Workshop/PoolLevel3.sb3) Program the balls and obstacles to be able to make contact with eachother.
 2. Click **File** and then **Load from your computer** to import the files from your computer.
 3. Click the green flag, read the instructions, and then press **P** to play!
-  
-
-## Usage
 
 ### Scratch
 
