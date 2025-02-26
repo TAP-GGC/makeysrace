@@ -59,12 +59,12 @@ By engaging in our workshops, students will create a pool game using block codin
 
 [Workshop Powerpoint](documents/MakeysraceWorkshop.pptx)
 
-[Workshop Levels (Student Use)]
+[Workshop Levels (Incomplete Code for Student Use)]
 * [Level 1](code/Workshop/PoolLevel1.sb3) Yellow and White ball. 
 * [Level 2](code/Workshop/PoolLevel2.sb3) All balls.
 * [Level 3](code/Workshop/PoolLevel3.sb3) Obstacles.
 
-[Workshop Levels (Teacher Answer Key)]
+[Workshop Levels (Complete Code for Teacher Answer Key)]
 * [Level 1](code/Teacher/PoolLevel1TeacherCode.sb3) Yellow and White Ball
 * [Level 2](code/Teacher/PoolLevel2TeacherCode.sb3) All balls.
 * [Level 3](code/Teacher/PoolLevel3TeacherCode.sb3) Obstacles.
