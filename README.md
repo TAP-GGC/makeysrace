@@ -15,9 +15,9 @@ By engaging in our workshops, students will create a pool game using block codin
 
 ### Videos of Each Level
 
-1. [Level 1](archive/videos/Level1.mp4)
-2. [Level 2](archive/videos/archive_videos_Level_2.mkv)
-3. [Level 3](archive/videos/Level3.mp4)
+1. [Makeys Race Level 1](archive/videos/Level1.mp4)
+2. [Makeys Race Level 2](archive/videos/archive_videos_Level_2.mkv)
+3. [Makeys Race Level 3](archive/videos/Level3.mp4)
 
 ## The Team
 - Samuel Groom
@@ -62,23 +62,23 @@ By engaging in our workshops, students will create a pool game using block codin
 
 
 **Workshop Levels (Incomplete Code for Student Use)**
-* [Level 1](code/Workshop/PoolLevel1.sb3) Yellow and White ball. 
-* [Level 2](code/Workshop/PoolLevel2.sb3) All balls.
-* [Level 3](code/Workshop/PoolLevel3.sb3) Obstacles.
+* [Level 1](code/Workshop/PoolLevel1.sb3) Program the White and Yellow ball to allow them to collide with each other. 
+* [Level 2](code/Workshop/PoolLevel2.sb3) Program the rest of the balls to be able to collide with each other.
+* [Level 3](code/Workshop/PoolLevel3.sb3) Program the balls and obstacles to be able to make contact with each other.
 
 **Workshop Levels (Complete Code for Teacher Answer Key)**
-* [Level 1](code/Teacher/PoolLevel1TeacherCode.sb3) Yellow and White Ball
-* [Level 2](code/Teacher/PoolLevel2TeacherCode.sb3) All balls.
-* [Level 3](code/Teacher/PoolLevel3TeacherCode.sb3) Obstacles.
+* [Level 1](code/Teacher/PoolLevel1TeacherCode.sb3) Program the White and Yellow ball to allow them to collide with each other.
+* [Level 2](code/Teacher/PoolLevel2TeacherCode.sb3) Program the rest of the balls to be able to collide with each other.
+* [Level 3](code/Teacher/PoolLevel3TeacherCode.sb3) Program the balls and obstacles to be able to make contact with each other.
   
 
 ## Usage
 
 #### Playing or Editing This Project
 1. Download any of these files to play the level or make changes to it!
-	* [Level 1](code/Workshop/PoolLevel1.sb3) Program the White and Yellow ball to allow them to collide with eachother. 
-	* [Level 2](code/Workshop/PoolLevel2.sb3) Program the rest of the balls to be able to collide with eachother.
- 	* [Level 3](code/Workshop/PoolLevel3.sb3) Program the balls and obstacles to be able to make contact with eachother.
+	* [Level 1](code/Workshop/PoolLevel1.sb3) Program the White and Yellow ball to allow them to collide with each other. 
+	* [Level 2](code/Workshop/PoolLevel2.sb3) Program the rest of the balls to be able to collide with each other.
+ 	* [Level 3](code/Workshop/PoolLevel3.sb3) Program the balls and obstacles to be able to make contact with each other.
 2. Click **File** and then **Load from your computer** to import the files from your computer.
 3. Click the green flag, read the instructions, and then press **P** to play!
 
