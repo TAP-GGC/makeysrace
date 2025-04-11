@@ -25,7 +25,7 @@ By engaging in our workshops, students will create a pool game using block codin
 - Johnson Ngao
 - Taylor Williams
 
-### The Advisors
+### 🎓The Advisors
 - Dr. Anca Doloc-Mihu
 - Dr. Cindy Robertson
 
